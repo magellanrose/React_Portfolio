@@ -9,7 +9,7 @@ function Contact() {
         <input name= "name" type="text" placeholder="Enter your full name" />
         <input name="email" type="email" placeholder="Enter your email address" />
         <textarea name="message" cols="30" rows="10" placeholder="Enter your message"></textarea>
-        <input type="hidden" name="redirect" value="https://65d7a071f98ebb298b5846b1--cosmic-cucurucho-b27f70.netlify.app/"></input>
+        {/* <input type="hidden" name="redirect" value="https://web3forms.com/success"></input> */}
         <button>Send</button>
       </form>
     </>
