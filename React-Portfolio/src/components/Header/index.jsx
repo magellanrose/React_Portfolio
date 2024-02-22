@@ -1,4 +1,3 @@
-import './style.css'
 import Navigation from '../Navigation'
 function Header() {
   return (
