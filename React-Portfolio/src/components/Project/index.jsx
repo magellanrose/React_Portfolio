@@ -5,7 +5,7 @@ function Project() {
   return (
     <>
       <div>
-          <h1>Always Sunny App</h1>
+          <h1>Projects</h1>
         <div>
           <Link to='https://magellanrose.github.io/Always_Sunny_Project/'>Always Sunny deployed link</Link>
           <Link to='https://github.com/magellanrose/Always_Sunny_Project'>Github Repo</Link>
