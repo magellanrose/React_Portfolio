@@ -134,6 +134,15 @@ form {
   }
 }
 
+// Classes
+.imageHandler{
+  width: 500px;
+}
+.cleanUp{
+  align-items: center;
+  justify-content: center;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

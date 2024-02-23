@@ -1,8 +1,12 @@
+import { Link } from 'react-router-dom'
+
 
 function Footer() {
   return (
     <>
-      <p>Footer</p>
+      <Link to='https://github.com/magellanrose'>Github</Link>
+
+
     </>
   )
 }

@@ -5,23 +5,17 @@ function Project() {
   return (
     <>
       <div>
-        <div>
           <h1>Always Sunny App</h1>
+        <div>
           <Link to='https://magellanrose.github.io/Always_Sunny_Project/'>Always Sunny deployed link</Link>
           <Link to='https://github.com/magellanrose/Always_Sunny_Project'>Github Repo</Link>
-        <img src={coverImage1} />
+        <img src={coverImage1} className='imageHandler' />
           
         </div>
       </div>
     </>
   )
 }
-// An image of the deployed application (either a short animated GIF or screenshot)
-// The title of the project
-
-// A link to the deployed application
-
-// A link to the corresponding GitHub repository
 
 
 
