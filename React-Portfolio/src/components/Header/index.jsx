@@ -3,7 +3,7 @@ function Header() {
   return (
     <>
     <Navigation />
-      <p>Header</p>
+      <p>Welcome to Nicholas Vacca Portfolio!!</p>
     </>
   )
 }
