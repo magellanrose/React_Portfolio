@@ -2,7 +2,8 @@ import Navigation from '../Navigation'
 function Header() {
   return (
     <>
-    <Navigation />
+      {/* Including the Navigation component within the Header */}
+      <Navigation />
       <p>Welcome to Nicholas Vacca Portfolio!!</p>
     </>
   )
