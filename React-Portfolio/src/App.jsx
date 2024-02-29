@@ -21,7 +21,7 @@ function App() {
         <Header />
 
         <main>
-          {/* Routes component for handling different routes */}
+          /* Routes component for handling different routes */
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
