@@ -1,5 +1,7 @@
 import { NavLink } from 'react-router-dom'
 
+
+// A single Navigation component within the header that will use NavLink components from react-router-dom
 function Navigation() {
 
   return (

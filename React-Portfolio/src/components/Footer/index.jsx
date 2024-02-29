@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-
+// A single Footer component that appears on multiple pages
 function Footer() {
   return (
     <>

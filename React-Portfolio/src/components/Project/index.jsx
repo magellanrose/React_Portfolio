@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom'
 import coverImage1 from '../../../src/assets/screenshot.png';
 
+// A single project component
 function Project() {
   return (
     <>
+    {/* div tag that contains an image of the deployed app, the title of the project, a link to the deployed app, and a link to the corresponding GitHub repo */}
       <div>
         <h1>Projects</h1>
         <div>
