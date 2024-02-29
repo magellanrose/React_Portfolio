@@ -9,7 +9,7 @@ function Contact() {
         <input name="name" type="text" placeholder="Enter your full name" />
         <input name="email" type="email" placeholder="Enter your email address" />
         <textarea name="message" cols="30" rows="10" placeholder="Enter your message"></textarea>
-        <input type="hidden" name="redirect" value="https://65df4b2c6fd2011e7134315f--heroic-peony-41c18f.netlify.app/"></input>
+        <input type="hidden" name="redirect" value="https://65e0f77e204b5a32ac7e9ead--heroic-peony-41c18f.netlify.app/"></input>
         <button>Send</button>
       </form>
     </>
