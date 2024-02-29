@@ -9,9 +9,9 @@ import About from './pages/About';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    /* Wrapping the entire application with BrowserRouter for client-side routing */
+     {/* Wrapping the entire application with BrowserRouter for client-side routing  */}
     <BrowserRouter>
-      /* Rendering the main App component */
+      {/* Rendering the main App component  */}
       <App />
     </BrowserRouter>
   </React.StrictMode>,
