@@ -1,6 +1,6 @@
 import coverImage1 from '../assets/IMG_2974.jpg';
 
-
+// About Me section
 function About(){
   return(
     <>

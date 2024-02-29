@@ -6,6 +6,7 @@ function Project() {
     <>
       <div>
         <h1>Projects</h1>
+        {/* Container for a project, including deployment link, GitHub repo link, and an image */}
         <div>
           <Link to='https://magellanrose.github.io/Always_Sunny_Project/'>Always Sunny deployed link</Link>
           <Link to='https://github.com/magellanrose/Always_Sunny_Project'>Github Repo</Link>
